@@ -48,21 +48,8 @@ module SegmentDisplay(
     end
     
     assign an = an_reg;
-
-
 ```
 
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
 
 
 
