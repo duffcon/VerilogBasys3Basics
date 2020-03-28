@@ -1,5 +1,7 @@
 # VerilogBasys3Basics
  
+![](./Basys3_0000.jpg)
+
  Top level file accessing I/O Ports
 ```
 module top(
@@ -48,21 +50,9 @@ module SegmentDisplay(
     end
     
     assign an = an_reg;
-
-
 ```
 
-```
-```
-
-```
-```
-
-```
-```
-
-```
-```
+![](./Basys3_1024.jpg)
 
 
 
