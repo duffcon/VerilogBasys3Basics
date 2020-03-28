@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
-| Date         : Sat Mar 28 07:29:29 2020
+| Date         : Sat Mar 28 12:10:10 2020
 | Host         : Laptop2n1 running 64-bit major release  (build 9200)
 | Command      : report_clock_utilization -file top_clock_utilization_routed.rpt
 | Design       : top
@@ -69,7 +69,7 @@ Table of Contents
 +----------+-----------------+------------+------------------+--------------+-------------+-----------------+--------------+-------+----------------------------------------------+----------------------------------+
 | Local Id | Driver Type/Pin | Constraint | Site/BEL         | Clock Region | Clock Loads | Non-Clock Loads | Clock Period | Clock | Driver Pin                                   | Net                              |
 +----------+-----------------+------------+------------------+--------------+-------------+-----------------+--------------+-------+----------------------------------------------+----------------------------------||
-| 0        | FDRE/Q          | None       | SLICE_X61Y10/AFF | X1Y0         |          10 |               1 |              |       | nolabel_line31/counter_anode/clock_div_reg/Q | nolabel_line31/counter_anode/CLK - Static -
+| 0        | FDRE/Q          | None       | SLICE_X61Y10/AFF | X1Y0         |          10 |               1 |              |       | nolabel_line30/counter_anode/clock_div_reg/Q | nolabel_line30/counter_anode/CLK - Static -
 +----------+-----------------+------------+------------------+--------------+-------------+-----------------+--------------+-------+----------------------------------------------+----------------------------------||
 * Local Clocks in this context represents only clocks driven by non-global buffers
 ** Clock Loads column represents the clock pin loads (pin count)

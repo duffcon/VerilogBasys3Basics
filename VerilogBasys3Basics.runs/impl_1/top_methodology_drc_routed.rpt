@@ -1,7 +1,7 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
-| Date         : Sat Mar 28 07:29:29 2020
+| Date         : Sat Mar 28 12:10:09 2020
 | Host         : Laptop2n1 running 64-bit major release  (build 9200)
 | Command      : report_methodology -file top_methodology_drc_routed.rpt -pb top_methodology_drc_routed.pb -rpx top_methodology_drc_routed.rpx
 | Design       : top
@@ -34,52 +34,52 @@ Table of Contents
 -----------------
 TIMING-17#1 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/an_reg_reg[0]/C is not reached by a timing clock
+The clock pin nolabel_line30/an_reg_reg[0]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#2 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/an_reg_reg[1]/C is not reached by a timing clock
+The clock pin nolabel_line30/an_reg_reg[1]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#3 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/an_reg_reg[2]/C is not reached by a timing clock
+The clock pin nolabel_line30/an_reg_reg[2]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#4 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/an_reg_reg[3]/C is not reached by a timing clock
+The clock pin nolabel_line30/an_reg_reg[3]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#5 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/count_reg[0]/C is not reached by a timing clock
+The clock pin nolabel_line30/count_reg[0]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#6 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/count_reg[1]/C is not reached by a timing clock
+The clock pin nolabel_line30/count_reg[1]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#7 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/digit_reg[0]/C is not reached by a timing clock
+The clock pin nolabel_line30/digit_reg[0]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#8 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/digit_reg[1]/C is not reached by a timing clock
+The clock pin nolabel_line30/digit_reg[1]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#9 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/digit_reg[2]/C is not reached by a timing clock
+The clock pin nolabel_line30/digit_reg[2]/C is not reached by a timing clock
 Related violations: <none>
 
 TIMING-17#10 Critical Warning
 Non-clocked sequential cell  
-The clock pin nolabel_line31/digit_reg[3]/C is not reached by a timing clock
+The clock pin nolabel_line30/digit_reg[3]/C is not reached by a timing clock
 Related violations: <none>
 
 
