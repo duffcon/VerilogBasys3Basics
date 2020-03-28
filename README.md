@@ -3,7 +3,7 @@
 ![](./Basys3_0000.jpg)
 
  Top level file accessing I/O Ports
-```
+```verilog
 module top(
     input clk,
     input [13:0] sw,
@@ -19,7 +19,7 @@ endmodule
 
 SegmentDisplay
 
-```
+```verilog
 module SegmentDisplay(
     input clk,
     input [14:0] num,
